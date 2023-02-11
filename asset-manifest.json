@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-excel-to-pdf/static/css/main.a0c4aee8.css",
+    "main.js": "/React-excel-to-pdf/static/js/main.e649ee4e.js",
+    "static/js/498.d12fefe6.chunk.js": "/React-excel-to-pdf/static/js/498.d12fefe6.chunk.js",
+    "static/js/703.fb6a8f02.chunk.js": "/React-excel-to-pdf/static/js/703.fb6a8f02.chunk.js",
+    "static/js/168.f1d98ee3.chunk.js": "/React-excel-to-pdf/static/js/168.f1d98ee3.chunk.js",
+    "static/js/787.b1d22bcc.chunk.js": "/React-excel-to-pdf/static/js/787.b1d22bcc.chunk.js",
+    "index.html": "/React-excel-to-pdf/index.html",
+    "main.a0c4aee8.css.map": "/React-excel-to-pdf/static/css/main.a0c4aee8.css.map",
+    "main.e649ee4e.js.map": "/React-excel-to-pdf/static/js/main.e649ee4e.js.map",
+    "498.d12fefe6.chunk.js.map": "/React-excel-to-pdf/static/js/498.d12fefe6.chunk.js.map",
+    "703.fb6a8f02.chunk.js.map": "/React-excel-to-pdf/static/js/703.fb6a8f02.chunk.js.map",
+    "168.f1d98ee3.chunk.js.map": "/React-excel-to-pdf/static/js/168.f1d98ee3.chunk.js.map",
+    "787.b1d22bcc.chunk.js.map": "/React-excel-to-pdf/static/js/787.b1d22bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c4aee8.css",
+    "static/js/main.e649ee4e.js"
+  ]
+}
